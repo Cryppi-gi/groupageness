@@ -1,0 +1,25 @@
+{
+    "name": "Mario Johnson",
+    "age": 50,
+    "address": {
+        "street": "Brown Plains",
+        "city": "East Brandon",
+        "state": "New Jersey",
+        "zip": "23922"
+    },
+    "contact": {
+        "phone": "4949008803",
+        "servicePhone": "800637341"
+    },
+    "birthday": "1975-12-11",
+    "ip": "79.20.38.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip yet degree boy others use. Lawyer song national spend. Marriage event front level executive.\nGrow discuss tend available. Buy rise field customer part ability third. Skill alone design analysis.",
+        "bio": "Kitchen figure company enjoy occur first. Upon animal owner form window anyone challenge. Minute three every election yeah. Owner number collection law."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
