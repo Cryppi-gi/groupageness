@@ -1,0 +1,25 @@
+{
+    "name": "Allison Cordova",
+    "age": 72,
+    "address": {
+        "street": "Cameron Extensions",
+        "city": "Zamoraview",
+        "state": "Massachusetts",
+        "zip": "62641"
+    },
+    "contact": {
+        "phone": "+1-755-589-6931",
+        "servicePhone": "800634339"
+    },
+    "birthday": "1953-04-11",
+    "ip": "58.41.102.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Street well they just. Open improve edge try society ability serious personal.\nPush with reason. Continue even win child. Crime success entire surface.",
+        "bio": "Mouth third boy court player process. Wide impact someone forget through western."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
