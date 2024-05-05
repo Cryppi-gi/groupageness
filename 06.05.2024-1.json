@@ -1,0 +1,25 @@
+{
+    "name": "Erik Cannon",
+    "age": 74,
+    "address": {
+        "street": "Chelsey Summit",
+        "city": "North Pamela",
+        "state": "Wisconsin",
+        "zip": "87920"
+    },
+    "contact": {
+        "phone": "(506)762-3118x4676",
+        "servicePhone": "800321010"
+    },
+    "birthday": "1951-30-04",
+    "ip": "32.51.204.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Second until none. Lead attention factor until involve live.\nSecond attack drop respond dog board. Particularly test across radio.",
+        "bio": "Fact require part lead often front road. Continue believe argue. Wife school simple nothing now her not outside."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
