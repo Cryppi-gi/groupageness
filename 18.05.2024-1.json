@@ -1,0 +1,25 @@
+{
+    "name": "Alvin Lowery",
+    "age": 9,
+    "address": {
+        "street": "Peterson Pine",
+        "city": "New Toniport",
+        "state": "Oklahoma",
+        "zip": "20467"
+    },
+    "contact": {
+        "phone": "(991)423-2867",
+        "servicePhone": "800961412"
+    },
+    "birthday": "2016-16-10",
+    "ip": "211.18.176.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Site main foreign. Fill tend every name tough stand factor. Human sense environmental hear at push may. Although beat show population doctor suffer good.",
+        "bio": "White piece line.\nRest from eye figure herself. Probably four resource music outside chair explain use. Too hundred financial billion seat financial that."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
