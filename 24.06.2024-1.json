@@ -1,0 +1,25 @@
+{
+    "name": "Jack Charles",
+    "age": 49,
+    "address": {
+        "street": "Jenna Ford",
+        "city": "Port Margaretport",
+        "state": "Georgia",
+        "zip": "27368"
+    },
+    "contact": {
+        "phone": "302.661.0829x89678",
+        "servicePhone": "800167610"
+    },
+    "birthday": "1976-05-05",
+    "ip": "131.94.228.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Want never case. Outside impact understand store. Large sort yet radio can line.\nDecade campaign according manager single form story. Certain campaign main raise compare middle.",
+        "bio": "Same people case single claim player. Until bank building."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
