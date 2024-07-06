@@ -1,0 +1,25 @@
+{
+    "name": "Sonya Levine",
+    "age": 15,
+    "address": {
+        "street": "Schaefer Brook",
+        "city": "Port Samanthamouth",
+        "state": "Indiana",
+        "zip": "87923"
+    },
+    "contact": {
+        "phone": "573.577.2515",
+        "servicePhone": "800342800"
+    },
+    "birthday": "2010-01-02",
+    "ip": "128.85.155.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark man evening image available stage age. Different process shake thing with. Lot crime see serious.\nWithout appear although into measure say. Thank form do baby pull difference note.",
+        "bio": "Hold determine security I television hot. Beautiful white letter blue.\nParticular senior trial rock young."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
