@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Jenkins",
+    "age": 74,
+    "address": {
+        "street": "Lisa Landing",
+        "city": "Harrisport",
+        "state": "Mississippi",
+        "zip": "75909"
+    },
+    "contact": {
+        "phone": "+1-755-457-8939",
+        "servicePhone": "800390198"
+    },
+    "birthday": "1951-30-06",
+    "ip": "13.153.10.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Have statement bank early. Blue he white create school mouth social. Tonight ready article yet every day over. Cold share great notice expert.",
+        "bio": "Cold sea treat describe couple. Both benefit physical dinner think black stop.\nAvailable pattern without yet scientist.\nWould between identify agent skill majority president. Nature thought window."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
