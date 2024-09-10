@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Williams",
+    "age": 79,
+    "address": {
+        "street": "Jeffrey Streets",
+        "city": "East Jonathan",
+        "state": "Arkansas",
+        "zip": "65248"
+    },
+    "contact": {
+        "phone": "(925)494-3873",
+        "servicePhone": "800043251"
+    },
+    "birthday": "1946-14-02",
+    "ip": "142.175.145.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad score forget indeed first. Everything drive head unit democratic clearly shake themselves. We keep best interest raise culture clear. Ever ago research audience age range business.",
+        "bio": "The challenge company try maybe office. Fine baby she finish point. National fly song high chance.\nPossible history focus something field all another. Report response first sell land once."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
