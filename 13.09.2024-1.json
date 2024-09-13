@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Curtis",
+    "age": 33,
+    "address": {
+        "street": "Nathan Stream",
+        "city": "Douglasfort",
+        "state": "New Mexico",
+        "zip": "93151"
+    },
+    "contact": {
+        "phone": "+1-311-917-8859",
+        "servicePhone": "800651195"
+    },
+    "birthday": "1992-02-11",
+    "ip": "75.157.91.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish issue activity coach cover.\nLawyer me chair start hope score. Painting effect enough defense traditional.",
+        "bio": "Through will man. Ago during indeed walk civil account author.\nScience there financial manage court specific hair forget. Life memory star firm. Success career sister reach else speak."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
