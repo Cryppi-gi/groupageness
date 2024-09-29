@@ -1,0 +1,25 @@
+{
+    "name": "Traci Murphy",
+    "age": 93,
+    "address": {
+        "street": "Smith Loaf",
+        "city": "North Christinaberg",
+        "state": "Vermont",
+        "zip": "71071"
+    },
+    "contact": {
+        "phone": "(510)697-3227x0438",
+        "servicePhone": "800324711"
+    },
+    "birthday": "1932-06-04",
+    "ip": "97.48.163.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Power owner expert everyone ready three. Town his film spend receive financial. Place pay source face interview source.",
+        "bio": "Market school computer admit sport southern too. Goal today like if weight. Turn difficult stuff account together add customer."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
