@@ -1,0 +1,25 @@
+{
+    "name": "Michael Francis",
+    "age": 2,
+    "address": {
+        "street": "Lawson Vista",
+        "city": "Teresabury",
+        "state": "New Jersey",
+        "zip": "68397"
+    },
+    "contact": {
+        "phone": "950.795.8143x35171",
+        "servicePhone": "800665327"
+    },
+    "birthday": "2023-02-08",
+    "ip": "117.168.150.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Break final over read each. If church up. Begin create language car play various collection.\nLand people nothing local. Wide form set consumer kind agreement citizen. Hold dream per talk air.",
+        "bio": "Technology southern quality speak forget. Rather it fight song own law.\nEffort majority official ever economic. Effort share investment cause. Various character opportunity set hit discussion."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
