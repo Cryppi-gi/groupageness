@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Soto",
+    "age": 43,
+    "address": {
+        "street": "Angela Ports",
+        "city": "Websterchester",
+        "state": "South Carolina",
+        "zip": "60692"
+    },
+    "contact": {
+        "phone": "526-482-5402x0951",
+        "servicePhone": "800523274"
+    },
+    "birthday": "1982-13-03",
+    "ip": "89.199.226.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean apply media.\nPhysical toward word. Nothing focus now character. Study hard be speech all form.\nCause tend service letter. Suffer sing knowledge source why need sort. She any me sit.",
+        "bio": "Customer answer real magazine top. Hour power west message year.\nCause today own generation born. Treatment movement which development investment student."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
