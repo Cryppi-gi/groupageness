@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Brown",
+    "age": 33,
+    "address": {
+        "street": "Arroyo Mount",
+        "city": "Woodsberg",
+        "state": "Wisconsin",
+        "zip": "67787"
+    },
+    "contact": {
+        "phone": "253-984-8584",
+        "servicePhone": "800553690"
+    },
+    "birthday": "1992-18-11",
+    "ip": "193.249.207.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation degree trial level sign usually. Spend responsibility course quite party age start almost.",
+        "bio": "Democrat cost who myself when guy.\nPiece hot get to letter. Time let these run audience. Take consumer blood firm although.\nProve ball avoid cell. Data central door so. I power color along."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
