@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Horton",
+    "age": 67,
+    "address": {
+        "street": "Graham Turnpike",
+        "city": "New Jessica",
+        "state": "Hawaii",
+        "zip": "28880"
+    },
+    "contact": {
+        "phone": "220-897-9288x34860",
+        "servicePhone": "800221193"
+    },
+    "birthday": "1958-16-10",
+    "ip": "195.175.85.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Near between leader better eat.\nProgram type both develop from size must. Since list bag herself worry. Main suggest final.",
+        "bio": "Cultural onto government feeling so painting many. Home boy ball very. History visit fine news."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

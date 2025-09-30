@@ -1,0 +1,25 @@
+{
+    "name": "Melvin Franklin",
+    "age": 105,
+    "address": {
+        "street": "Jimenez Plains",
+        "city": "New Johnberg",
+        "state": "Tennessee",
+        "zip": "24031"
+    },
+    "contact": {
+        "phone": "787.750.1160x9608",
+        "servicePhone": "800855200"
+    },
+    "birthday": "1920-04-03",
+    "ip": "105.158.37.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Any serious themselves might citizen go color. Then can eat effect allow laugh wrong. None wish bit modern all high there.",
+        "bio": "Present political nothing. Attention take place rock my fast test.\nKnowledge song pattern fire scientist game. Firm look campaign when. Easy perform wall state push sign."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mary Sanders",
+    "age": 36,
+    "address": {
+        "street": "Melissa Oval",
+        "city": "Watkinsmouth",
+        "state": "South Dakota",
+        "zip": "69521"
+    },
+    "contact": {
+        "phone": "273.371.0325",
+        "servicePhone": "800774984"
+    },
+    "birthday": "1989-27-01",
+    "ip": "204.43.136.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Green indeed big already mean. Author brother against center four. Himself must who make.\nAgent ground yeah. Arrive discuss quality star mission result before.",
+        "bio": "Well list us task test.\nFew customer pass admit of. Stock law television manage tell.\nConference area pretty level house. Others base their rich let machine."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
