@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Powell",
+    "age": 108,
+    "address": {
+        "street": "Massey Port",
+        "city": "East Johnchester",
+        "state": "Kentucky",
+        "zip": "27626"
+    },
+    "contact": {
+        "phone": "9357286812",
+        "servicePhone": "800457294"
+    },
+    "birthday": "1917-12-01",
+    "ip": "114.154.127.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment standard lead care born gun. Century today night so address work. Listen behavior middle get anyone whole subject miss.",
+        "bio": "Teach house entire production eight simple. But billion couple production ago feeling down. Two high war party also.\nData five pretty necessary skill. Unit first mother play."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

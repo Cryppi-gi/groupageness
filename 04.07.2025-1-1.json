@@ -1,0 +1,25 @@
+{
+    "name": "Derrick Macias",
+    "age": 31,
+    "address": {
+        "street": "Matthew Prairie",
+        "city": "Robertfort",
+        "state": "Rhode Island",
+        "zip": "97260"
+    },
+    "contact": {
+        "phone": "001-716-624-3751",
+        "servicePhone": "800295500"
+    },
+    "birthday": "1994-17-04",
+    "ip": "82.24.146.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Window word involve explain turn. Democratic sort rate.\nYoung like rule company little. Off politics while wind much poor.\nInterview program decision issue natural.",
+        "bio": "Hospital send source well artist see back. More coach pull.\nWay hotel argue evidence seek need I. Interview show scientist too baby.\nAny seem there learn beautiful chair. Career interview phone car."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
