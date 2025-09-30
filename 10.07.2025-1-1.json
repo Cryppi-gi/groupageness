@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Fisher",
+    "age": 60,
+    "address": {
+        "street": "Riley Roads",
+        "city": "Port James",
+        "state": "West Virginia",
+        "zip": "61775"
+    },
+    "contact": {
+        "phone": "(615)224-6707x5244",
+        "servicePhone": "800723723"
+    },
+    "birthday": "1965-20-06",
+    "ip": "192.116.176.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Friend so side management. Physical trial seem product kid land. Peace maintain statement family population.\nThere in let sometimes model ready. Style young bar country.",
+        "bio": "Pass similar long another whether. Friend time turn our ask begin. Couple avoid some wrong use science.\nReal environmental some now field. Program off owner cause commercial later notice."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
