@@ -1,0 +1,25 @@
+{
+    "name": "Jason Leon",
+    "age": 3,
+    "address": {
+        "street": "Tara Trail",
+        "city": "Bennetttown",
+        "state": "Louisiana",
+        "zip": "99324"
+    },
+    "contact": {
+        "phone": "203-521-9703x7949",
+        "servicePhone": "800711476"
+    },
+    "birthday": "2022-03-11",
+    "ip": "188.249.60.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity him partner lot tend language number. Great would within thousand. Radio television spring.\nSeek line decide eye human out people.",
+        "bio": "Discuss political camera third role reflect score. May take factor would field billion tree.\nHave campaign use left themselves. Thus above officer interest."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

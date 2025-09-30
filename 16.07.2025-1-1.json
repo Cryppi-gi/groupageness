@@ -1,0 +1,25 @@
+{
+    "name": "Christine Contreras",
+    "age": 101,
+    "address": {
+        "street": "Robinson Hill",
+        "city": "East Andrewhaven",
+        "state": "Maryland",
+        "zip": "08273"
+    },
+    "contact": {
+        "phone": "001-609-575-9653x659",
+        "servicePhone": "800293918"
+    },
+    "birthday": "1924-04-11",
+    "ip": "179.58.79.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh experience require cell second. Improve manager think cell officer business.\nTake trouble interesting leave. Daughter mission investment police whose perhaps staff. Carry rather speak.",
+        "bio": "Record long difference the interest door. Serious address material financial prepare there administration. My pass new practice. Area happy society wonder perhaps billion local."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
