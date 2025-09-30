@@ -1,0 +1,25 @@
+{
+    "name": "Stacie Schwartz",
+    "age": 94,
+    "address": {
+        "street": "Mendoza Crossroad",
+        "city": "Williamshire",
+        "state": "Michigan",
+        "zip": "32895"
+    },
+    "contact": {
+        "phone": "2808497503",
+        "servicePhone": "800192517"
+    },
+    "birthday": "1931-02-07",
+    "ip": "18.97.7.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Open surface artist myself space some. Minute medical here if year responsibility.\nPhone because cause appear all whom. Else measure recent ago industry bit. Long hold task recent company in remain.",
+        "bio": "Lose you nice.\nLikely how partner themselves detail few power. Health foot interview shake indeed bring."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
