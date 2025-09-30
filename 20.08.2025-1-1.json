@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Rosario",
+    "age": 4,
+    "address": {
+        "street": "Benjamin Drive",
+        "city": "South Jameshaven",
+        "state": "Nebraska",
+        "zip": "48716"
+    },
+    "contact": {
+        "phone": "330.538.1312",
+        "servicePhone": "800657922"
+    },
+    "birthday": "2021-24-05",
+    "ip": "172.40.40.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Bank include perform.\nPower senior safe those responsibility black us choice. Southern suffer later western left.",
+        "bio": "Pattern floor million law financial not we current. Try charge little learn instead seven main. Want education provide generation individual."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

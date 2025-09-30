@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Hart",
+    "age": 52,
+    "address": {
+        "street": "Brandon Stravenue",
+        "city": "Port Shirley",
+        "state": "Ohio",
+        "zip": "62056"
+    },
+    "contact": {
+        "phone": "001-894-669-0249x1122",
+        "servicePhone": "800872562"
+    },
+    "birthday": "1973-19-11",
+    "ip": "93.203.95.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain early shake size. Response age economic check. Service data explain lose control.",
+        "bio": "Understand idea ask card difficult side minute technology. Physical candidate girl population.\nNot far discussion create. Mrs sister yes require last lawyer we sound."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
